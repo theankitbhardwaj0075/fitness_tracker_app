@@ -75,12 +75,12 @@ This app build with below technologies
 
 # Screenshots
 
-![Home Page](https://github.com/theankitbhardwaj0075/fitness_tracker_app.git/blob/main/screenshots/homepage.png)
-![Workout Database](https://github.com/theankitbhardwaj0075/fitness_tracker_app.git/blob/main/screenshots/workout-database.png)
-![Nutrition Checker](https://github.com/theankitbhardwaj0075/fitness_tracker_app.git/blob/main/screenshots/nutrition-checker.png)
-![Diet Profile](https://github.com/theankitbhardwaj0075/fitness_tracker_app.git/blob/main/screenshots/diet-profile.png)
-![Meal Plan](https://github.com/theankitbhardwaj0075/fitness_tracker_app.git/blob/main/screenshots/meal-plan.png)
+![Home Page](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/homepage.png)
+![Workout Database](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/workout-database.png)
+![Nutrition Checker](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/nutrition-checker.png)
+![Diet Profile](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/diet-profile.png)
+![Meal Plan](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/meal-plan.png)
 
 ## License
 
-\\Copyright 2023. Code released under the [MIT license](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/LICENSE).
+Copyright 2023. Code released under the [MIT license](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/LICENSE).
